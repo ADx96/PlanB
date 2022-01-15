@@ -15,7 +15,6 @@ import Navbar from "containers/Portfolio/Navbar";
 import Footer from "containers/AppModern/Footer";
 import FeatureSlider from "containers/AppCreative/FeatureSlider";
 import Steps from "common/components/Steps";
-
 import About from "common/components/About";
 
 const PlanB = () => {
