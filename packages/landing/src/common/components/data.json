@@ -1,0 +1,56 @@
+{
+  "timeline": {
+    "year2019": [
+      {
+        "title": "Easy to use",
+        "description": "Softino Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderi."
+      },
+      {
+        "title": "Unique Features",
+        "description": "Softino Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderi."
+      },
+      {
+        "title": "Unlimited Colors",
+        "description": "Softino Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderi."
+      }
+    ],
+    "year2020": [
+      {
+        "title": "Layout Option",
+        "description": "Softino Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderi."
+      },
+      {
+        "title": "Sass Version",
+        "description": "Softino Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderi."
+      },
+      {
+        "title": "Fully Responsive",
+        "description": "Softino Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderi."
+      }
+    ]
+  },
+  "steps": {
+    "title": "How It Work",
+    "description": "Three Simple Step To Started Working Process",
+    "step": [
+      {
+        "title": "Research Project",
+        "description": "Nostrud exercitat ullamco lorem ipsum dolor sit amet, consece adipising elit, sed doeo eiusmod",
+        "count": "01",
+        "icon": "la la-lightbulb-o"
+      },
+      {
+        "title": "Targeting",
+        "description": "Nostrud exercitat ullamco lorem ipsum dolor sit amet, consece adipising elit, sed doeo eiusmod",
+        "count": "02",
+        "icon": "la la-rocket"
+      },
+      {
+        "title": "Result",
+        "description": "Nostrud exercitat ullamco lorem ipsum dolor sit amet, consece adipising elit, sed doeo eiusmod",
+        "count": "03",
+        "icon": "la la-check-square"
+      }
+    ]
+  }
+}
