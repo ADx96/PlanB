@@ -12,6 +12,7 @@ module.exports = withPlugins([], nextConfig);
 module.exports = withPlugins([withImages], {
   target: "serverless",
 });
+
 module.exports = {
   async redirects() {
     return [
