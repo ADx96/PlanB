@@ -1,4 +1,5 @@
 const withPlugins = require("next-compose-plugins");
+const withImages = require("next-images");
 
 const nextConfig = {
   images: {
@@ -8,10 +9,9 @@ const nextConfig = {
 
 module.exports = withPlugins([], nextConfig);
 
-module.exports = {
-  target: "serverless", // add this line
-};
-
+module.exports = withPlugins([withImages], {
+  target: "serverless",
+});
 module.exports = {
   async redirects() {
     return [
