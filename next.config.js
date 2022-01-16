@@ -9,6 +9,10 @@ const nextConfig = {
 module.exports = withPlugins([], nextConfig);
 
 module.exports = {
+  target: "serverless", // add this line
+};
+
+module.exports = {
   async redirects() {
     return [
       {
@@ -18,7 +22,4 @@ module.exports = {
       },
     ];
   },
-};
-module.exports = {
-  target: "serverless", // add this line
 };
