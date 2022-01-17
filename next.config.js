@@ -14,4 +14,3 @@ module.exports = withPlugins([], {
 module.exports = {
   assetPrefix: "./",
 };
-s;
