@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/"
-  to = "/HomePage"
-  status = 302
-  force = false 
