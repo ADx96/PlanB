@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import Mockup from 'common/assets/image/app/iphone-mockup.png';
+import styled from "styled-components";
+import Mockup from "common/assets/image/app/iphone-mockup.png";
 
 const FeatureSliderWrapper = styled.div`
   position: relative;
@@ -24,7 +24,7 @@ const FeatureSliderWrapper = styled.div`
       pointer-events: none;
     }
     span:nth-child(2) {
-      content: '';
+      content: "";
       position: absolute;
       display: block;
       width: 5%;
@@ -41,7 +41,7 @@ const FeatureSliderWrapper = styled.div`
       animation-delay: 1s;
     }
     span:nth-child(3) {
-      content: '';
+      content: "";
       position: absolute;
       display: block;
       width: 5%;
@@ -93,7 +93,7 @@ const FeatureSliderWrapper = styled.div`
       height: 759px;
 
       &::before {
-        content: '';
+        content: "";
         background-image: url(${Mockup?.src});
         position: absolute;
         width: 100%;
@@ -105,7 +105,7 @@ const FeatureSliderWrapper = styled.div`
         background-size: contain;
       }
       &:after {
-        content: '';
+        content: "";
         width: calc(100% - 20px);
         height: calc(100% - 20px);
         top: 50%;
@@ -192,7 +192,7 @@ const FeatureSliderWrapper = styled.div`
             line-height: 24px;
             letter-spacing: -0.01em;
             color: #0f2137;
-            font-family: 'Open sans';
+            font-family: "Open sans";
             top: 0;
             text-shadow: none;
             transform: none;
