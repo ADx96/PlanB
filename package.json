@@ -12,8 +12,7 @@
     "rimraf": "^3.0.2"
   },
   "workspaces": [
-    "packages/landing",
-    "packages/landing-gatsby"
+    "packages/landing"
   ],
   "scripts": {
     "clean": "yarn workspaces run rimraf \"{.next,node_modules,.cache,out,dist}\" && rimraf node_modules",
